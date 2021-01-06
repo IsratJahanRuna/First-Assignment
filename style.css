@@ -1,0 +1,151 @@
+.blue-highlight{
+    color:rgb(20, 20, 92);
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+#nav{
+    overflow: hidden;
+    text-align: right;
+    width:95%;
+    height:50px;
+    padding: 14px 16px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.link{
+    text-decoration: none;
+    color:rgb(112, 111, 111);
+    text-align: center;
+    padding:10px;
+} 
+.top-banner{
+    height:470px;
+}
+h1{
+    font-size: 50px;
+}
+.orange-highlight{
+    color:#f50930;
+}
+.about-area{
+    height:450px;
+}
+.half-width1{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width{
+    width:30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width1 img{
+    width: 100%;
+}
+.half-width1 h2{
+    padding-top:50px;
+}
+.half-width p{
+    text-align: justify;
+    color:rgb(39, 38, 38);
+    margin-bottom: 50px;
+}
+.half-width1 p{
+    text-align: justify;
+    color:rgb(39, 38, 38);
+    margin-bottom: 50px;
+}
+section{
+    height:600px;
+    padding-bottom: 50px; 
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding:15px 30px;
+    border-radius: 10px;
+    color:white;
+    background-image: linear-gradient(#f50930, tomato);
+    font-weight: 700px;
+}
+.project-area{
+    background-color: rgb(234, 240, 240);
+    float:none;
+}
+.headline{
+    text-align: center;
+    padding:50px;
+}
+.project-presentation{
+    width:25%;
+    height:50%;
+    float:left;
+    margin: 1% 2%;
+    padding: 1% 2%;
+    border-radius:20px;
+    background-color: white;
+}
+.project-presentation img{
+    width:94%;
+    padding:3%;
+}
+.whole-project-area{
+    padding:auto;
+    margin:auto;
+}
+.last-area{
+    background-image: url("images/bg.png");
+    background-size: 800px 200px;
+    height:400px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#last-half1{
+    width: 30%;
+    float: left;
+    display: block;
+    margin-left: 26%;
+    margin-top: 11%;
+}
+#last-half1 h1{
+    color: white;
+}
+#last-half2{
+    width:30%;
+   display: block;
+   float:right;
+   margin-right:5%;
+  margin-top: 16%;
+}
+.certificates-area{
+    background-color: rgb(235, 247, 242);
+    text-align:center;
+}
+.certificates-area h2{
+    padding:50px;
+}
+.certificates-area img{
+    width:30%;
+    padding:3px;
+}
+.footer-link{
+    text-decoration: none;
+    color:rgb(78, 77, 77);
+    font-weight: 1500px;
+}
+footer{
+    height:50px;
+    text-align: center;
+}
+footer img{
+    width:25px;
+    padding:2px;
+}
